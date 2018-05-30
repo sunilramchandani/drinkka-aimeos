@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a href="https://aimeos.org/">
     <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
 </a>
@@ -90,3 +91,7 @@ is available for free.
 # drinkka-aimeos
 Laravel Drinkka Platform
 >>>>>>> abdfad8fb76fc6509821315310d53be49bb3e0e2
+=======
+# drinkka-aimeos
+Laravel Drinkka Platform
+>>>>>>> 900f378cfbbb5f9a24a989b347d19e83717e8586
